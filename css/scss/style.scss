@@ -870,11 +870,13 @@
    }
    // .block-note__text
    &__text {
+      padding: 0 15px 0 0;
       p{
          font-size: 15px;
          line-height: 24px;
          font-weight: 400;
          color: #ffffff;
+         
       }
    }
 }

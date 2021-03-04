@@ -1099,6 +1099,10 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 0 0;
 }
 
+.block-note__text {
+  padding: 0 15px 0 0;
+}
+
 .block-note__text p {
   font-size: 15px;
   line-height: 24px;
