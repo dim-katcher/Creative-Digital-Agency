@@ -506,7 +506,7 @@
       border: 1px solid #ffffff;
       border-radius: 50%;
       overflow: hidden;
-      background: url('/img/01 main_screen/02.png') 50% no-repeat;
+      background: url('/img/01_main_screen/02.png') 50% no-repeat;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -537,17 +537,10 @@
    background-color: #11749e;
    width: 100%;
    padding-bottom: 80px;
-
    //--------------------------------------------------
    // .block-awesome__top
    &__top{
-
    }
-
-
-
-
-
 //===========================================================================
    // .block-awesome__row
    &__bottom{
@@ -746,10 +739,10 @@
    &__image {
       height: 100%;
       &--left{
-         background: url('/img/04 akita/01.png') 50% 0/cover no-repeat;
+         background: url('/img/04_akita/01.png') 50% 0/cover no-repeat;
       }
       &--right{
-         background: url('/img/04 akita/02.png') 50% 0/cover no-repeat;
+         background: url('/img/04_akita/02.png') 50% 0/cover no-repeat;
       }
       @media (max-width: 600px){
          min-height: 400px;
@@ -910,7 +903,7 @@
 }
 //==========================================================
 .block-free {
-   background: url('/img/07 free/02.png') 0 0/cover no-repeat;
+   background: url('/img/07_free/02.png') 0 0/cover no-repeat;
    // .block-free__row
    &__row {
       display: flex;
@@ -1089,7 +1082,7 @@
 }
 //=========================================================
 .block-form {
-   background: url('/img/09 form/01.png') 0 0/cover no-repeat;   
+   background: url('/img/09_form/01.png') 0 0/cover no-repeat;   
    // .block-form__top
    &__top {
    }
@@ -1175,7 +1168,7 @@
 //=========================================================
 .block-map {
    min-height: 332px;
-   background: url('/img/10 map/01.png') 50% 0/cover no-repeat;
+   background: url('/img/10_map/01.png') 50% 0/cover no-repeat;
 }
 //==========================================================
 .footer {
@@ -1213,11 +1206,6 @@
 
    }
 }
-
-
-
-
-
 //============================================================
 //Фон буква//////////////////////////////////////////////////
 .block--blb {

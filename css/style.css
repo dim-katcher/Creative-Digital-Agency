@@ -700,7 +700,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #ffffff;
   border-radius: 50%;
   overflow: hidden;
-  background: url("/img/01 main_screen/02.png") 50% no-repeat;
+  background: url("/img/01_main_screen/02.png") 50% no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -963,11 +963,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .block-akita__image--left {
-  background: url("/img/04 akita/01.png") 50% 0/cover no-repeat;
+  background: url("/img/04_akita/01.png") 50% 0/cover no-repeat;
 }
 
 .block-akita__image--right {
-  background: url("/img/04 akita/02.png") 50% 0/cover no-repeat;
+  background: url("/img/04_akita/02.png") 50% 0/cover no-repeat;
 }
 
 @media (max-width: 600px) {
@@ -1174,7 +1174,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .block-free {
-  background: url("/img/07 free/02.png") 0 0/cover no-repeat;
+  background: url("/img/07_free/02.png") 0 0/cover no-repeat;
 }
 
 .block-free__row {
@@ -1370,7 +1370,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .block-form {
-  background: url("/img/09 form/01.png") 0 0/cover no-repeat;
+  background: url("/img/09_form/01.png") 0 0/cover no-repeat;
 }
 
 .block-form__form {
@@ -1463,7 +1463,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .block-map {
   min-height: 332px;
-  background: url("/img/10 map/01.png") 50% 0/cover no-repeat;
+  background: url("/img/10_map/01.png") 50% 0/cover no-repeat;
 }
 
 .footer {
