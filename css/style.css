@@ -530,9 +530,15 @@ h1, h2, h3, h4, h5, h6 {
   padding: 380px 10px 0px 0;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1440px) {
   .main-screen__title {
     padding: 300px 10px 0px 0;
+  }
+}
+
+@media (max-width: 1200px) {
+  .main-screen__title {
+    padding: 250px 10px 0px 0;
   }
 }
 
@@ -700,7 +706,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #ffffff;
   border-radius: 50%;
   overflow: hidden;
-  background: url("/img/01_main_screen/02.png") 50% no-repeat;
+  background: url("/img/01/02.png") 50% no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
