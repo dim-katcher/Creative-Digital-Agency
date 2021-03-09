@@ -1,13 +1,16 @@
 $(document).ready(function()  {
-	$('.header-box-burger').click(function(event)  {
-		$('.header__burger,.header-box__colums--3,.header-box').toggleClass('active');	
-		$('.main-screen').toggleClass('lock');	
+	$('.header__burger').click(function(event)  {
+		$('body').toggleClass('lock');	
 	});  
 });
 
 $(window).scroll(function(){
 	$('.header').toggleClass('background', $(this).scrollTop() > 0);
 });
+
+
+
+
 
 function ibg(){
 
